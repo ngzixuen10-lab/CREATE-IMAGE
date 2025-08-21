@@ -1,0 +1,6 @@
+{
+  "name": "image-site-vercel",
+  "private": true,
+  "type": "module",
+  "dependencies": {}
+}
