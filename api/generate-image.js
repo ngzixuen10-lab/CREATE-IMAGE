@@ -23,7 +23,6 @@ export default async function handler(req, res) {
         model: 'gpt-image-1',
         prompt,
         size,
-        response_format: 'b64_json'
       })
     });
 
